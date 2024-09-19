@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Target-Sum-Array-SSG": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
